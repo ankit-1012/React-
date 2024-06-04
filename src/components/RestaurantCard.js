@@ -9,7 +9,6 @@ const RestaurantCard = (props) =>{
             costForTwoString,
             deliveryTime,
     } = resdata?.data;
-    console.log(resdata);
     return (
         <div className="res-card">  
             <img 
