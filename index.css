@@ -119,3 +119,14 @@
     font-weight: bold;
     margin: 5px 0;
 }
+.shimmer-container{
+    display: flex;
+}
+.shimmer-card{
+    width: 220px; 
+    background-color: #f3ebeb;
+    padding: 10px;
+    border: none; 
+    border-radius: 10px;
+    
+}
